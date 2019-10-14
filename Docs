@@ -19,4 +19,23 @@ Coeficient of variation : to brind deviation to the same scale
 CoVaraince : used to measure variance for mutiple variables(psitive ,negative or zero).
 
 
+⦁	Distibution
+A distribution is a function that shows the possible values for a variable and how often they occur.
+
+1) Normal distribution : The statistical term for it is Gaussian distribution, but
+
+many people call it the Bell Curve as it is shaped like a bell. It is symmetrical and ,mean = mode = median = new Skew.
+
+Standadisation (Z)=(X - mean )/standard Deviation
+
+
+Central Limit Theorem states.
+
+No matter the distribution of the population - Binomial, Uniform, Exponential or another
+
+one, the sampling distribution of the mean will approximate a normal distribution.
+
+Not only that, but its mean is the same as the population mean. 
+
+
 
