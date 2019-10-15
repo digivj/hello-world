@@ -29,13 +29,21 @@ many people call it the Bell Curve as it is shaped like a bell. It is symmetrica
 Standadisation (Z)=(X - mean )/standard Deviation
 
 
-Central Limit Theorem states.
+⦁ Central Limit Theorem states.
 
 No matter the distribution of the population - Binomial, Uniform, Exponential or another
 
 one, the sampling distribution of the mean will approximate a normal distribution.
 
 Not only that, but its mean is the same as the population mean. 
+
+⦁ The formula for all confidence intervals is:
+
+[point estimate - the reliability factor * the standard error ,  point
+
+estimate + the reliability factor * the standard error]
+
+We know what the point estimate is – values like x bar and s bar]
 
 
 
